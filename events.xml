@@ -1,0 +1,674 @@
+<?xml version="1.0"?>
+<monthly>
+
+
+
+		<event>
+		<id>1</id>
+		<name>Altium Designer 17</name>
+		<startdate>2018-02-05</startdate>
+		<enddate>2018-02-09</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#ffb128</color>
+		<url>dettagli_altium17.html</url>
+	</event>
+	
+	<event>
+		<id>2</id>
+		<name>La normazione internazionale nel settore OHS</name>
+		<startdate>2018-02-28</startdate>
+		<enddate>2018-02-28</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#ce0a0a</color>
+		<url>dettagli_OHS.html</url>
+	</event>
+	<event>
+		<id>3</id>
+		<name>Information day Prin 2017</name>
+		<startdate>2018-02-14</startdate>
+		<enddate>2018-02-14</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#7CBBFF</color>
+		<url>dettagli_prin.html</url>
+	</event>
+	<event>
+		<id>4</id>
+		<name>Assurance</name>
+		<startdate>2018-02-26</startdate>
+		<enddate>2018-02-28</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#01a51f</color>
+		<url>dettagli_assurance.html</url>
+	</event>
+	<event>
+		<id>5</id>
+		<name>Corso avanzato nella comunicazione della scienza</name>
+		<startdate>2018-03-14</startdate>
+		<enddate>2018-03-16</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#bb09e2</color>
+		<url>dettagli_comun_scienza_adv.html</url>
+	</event>
+	<event>
+		<id>5</id>
+		<name>Application Server Jboss</name>
+		<startdate>2018-03-12</startdate>
+		<enddate>2018-03-14</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#ffca44</color>
+		<url>dettagli_jboss.html</url>
+	</event>
+	<event>
+		<id>5</id>
+		<name>Presentazione delle nuove regole introdotte dal disciplinare dei concorsi</name>
+		<startdate>2018-04-10</startdate>
+		<enddate>2018-04-11</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#f20e0e</color>
+		<url>dettagli_concorsi.html</url>
+	</event>
+	<event>
+		<id>6</id>
+		<name>CISCO CCNA Bootcamp</name>
+		<startdate>2018-05-07</startdate>
+		<enddate>2018-05-11</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#285470</color>
+		<url>dettagli_bootcamp.html</url>
+	</event>
+	<event>
+		<id>7</id>
+		<name>Solid Works</name>
+		<startdate>2018-04-09</startdate>
+		<enddate>2018-04-13</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#e8c500</color>
+		<url>dettagli_solidworks.html</url>
+	</event>
+	<event>
+		<id>8</id>
+		<name>Fisica e Comunicazione - L’intervista TV</name>
+		<startdate>2018-06-21</startdate>
+		<enddate>2018-06-22</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#2dd30c</color>
+		<url>dettagli_intervista_TV.html</url>
+	</event>
+	<event>
+		<id>9</id>
+		<name>La sicurezza dei web server con riferimento a CMS Joomla e WordPress</name>
+		<startdate>2018-05-2</startdate>
+		<enddate>2018-05-4</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#ee00ff</color>
+		<url>dettagli_web_security.html</url>
+	</event>
+	<event>
+		<id>10</id>
+		<name>Fisica e Comunicazione: scienza e aziende</name>
+		<startdate>2018-05-23</startdate>
+		<enddate>2018-05-24</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#e0b30f</color>
+		<url>dettagli_scienza_aziende_18.html</url>
+	</event>	<event>
+		<id>11</id>
+		<name>Gender Equality Network in the European Research Area</name>
+		<startdate>2018-05-16</startdate>
+		<enddate>2018-05-16</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#d9403b</color>
+		<url>dettagli_genera.html</url>
+	</event><event>
+		<id>12</id>
+		<name>Società ugualitaria: utopia o possibilità?</name>
+		<startdate>2018-06-7</startdate>
+		<enddate>2018-06-7</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#f0dc9f</color>
+		<url>dettagli_I_seminario_equita.html</url>
+	</event>
+	<event>
+		<id>13</id>
+		<name>Introduzione alla programmazione FPGA con VHDL</name>
+		<startdate>2018-06-12</startdate>
+		<enddate>2018-06-15</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#FF3399</color>
+		<url>dettagli_fpga.html</url>
+	</event>
+	<event>
+		<id>14</id>
+		<name>Conversione optoelettronica nella trasmissione dei dati dai rivelatori</name>
+		<startdate>2018-06-18</startdate>
+		<enddate>2018-06-20</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#600505</color>
+		<url>dettagli_optoelettronica.html</url>
+	</event>
+	<event>
+		<id>15</id>
+		<name>Le relazioni sindacali e gli istituti del rapporto di lavoro...</name>
+		<startdate>2018-09-19</startdate>
+		<enddate>2018-09-20</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#600505</color>
+		<url>dettagli_accesso_atti.html</url>
+	</event>
+	<event>
+		<id>16</id>
+		<name>Aggiornamenti in materia fiscale: IVA, IRPEF, imposta di bollo, fattura elettronica</name>
+		<startdate>2018-07-11</startdate>
+		<enddate>2018-07-12</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#e0b30f</color>
+		<url>dettagli_iva_irpef.html</url>
+	</event>
+		<event>
+		<id>17</id>
+		<name>VI Seminario Nazionale Rivelatori Innovativi SNRI 2018</name>
+		<startdate>2018-10-1</startdate>
+		<enddate>2018-10-5</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#00a1ff</color>
+		<url>dettagli_corso_rivelatori.html</url>
+	</event>
+<event>
+		<id>18</id>
+		<name>GIT - utilizzo di base</name>
+		<startdate>2018-09-1</startdate>
+		<enddate>2018-09-1</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#F90</color>
+		<url>dettagli_git_base.html</url>
+	</event>
+		<event>
+		<id>19</id>
+		<name>Corso aggiornamento formatori per la salute e sicurezza sul lavoro, RSPP e ASPP</name>
+		<startdate>2018-10-2</startdate>
+		<enddate>2018-10-3</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#182F4C</color>
+		<url>dettagli_rspp_aspp.html</url>
+	</event><event>
+		<id>20</id>
+		<name>Public engagement: lo scienziato sul palco</name>
+		<startdate>2018-09-14</startdate>
+		<enddate>2018-09-14</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#2dd30c</color>
+		<url>dettagli_public_engagement.html</url>
+	</event>
+	<event>
+		<id>21</id>
+		<name>Corso per rappresentanti del personale Tecnico, Tecnologo e Amministrativo</name>
+		<startdate>2018-09-18</startdate>
+		<enddate>2018-09-19</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#600505</color>
+		<url>dettagli_corso_tta_18.html</url>
+	</event>
+	<event>
+		<id>22</id>
+		<name>Aspetti normativi e giuridici in materia di salute e sicurezza negli ambienti di lavoro: integrazione ed inclusione di PRM nei luoghi di lavoro</name>
+		<startdate>2018-10-2</startdate>
+		<enddate>2018-10-3</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#e0b30f</color>
+		<url>dettagli_corso_RLS2.html</url>
+	</event>
+<event>
+		<id>23</id>
+		<name>... Il trattamento di missione in Italia e all'estero per il personale INFN</name>
+		<startdate>2018-11-20</startdate>
+		<enddate>2018-11-21</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#ffb128</color>
+		<url>dettagli_corso_trattamento_missione.html</url>
+	</event>
+	<event>
+		<id>24</id>
+		<name>Donne, scienza e società - Conoscere il passato per comprendere il presente e pianificare il futuro.</name>
+		<startdate>2018-11-6</startdate>
+		<enddate>2018-11-6</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#FF3399</color>
+		<url>dettagli_II_seminario_equita.html</url>
+	</event>
+	<event>
+		<id>25</id>
+		<name>Social media</name>
+		<startdate>2018-11-21</startdate>
+		<enddate>2018-11-21</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#bb09e2</color>
+		<url>dettagli_social_media.html</url>
+	</event>
+	<event>
+		<id>26</id>
+		<name>H2020: MSCA e ERC</name>
+		<startdate>2018-11-13</startdate>
+		<enddate>2018-11-14</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#01a51f</color>
+		<url>dettagli_corso_MSCA_ERC.html</url>
+	</event>
+	<event>
+		<id>27</id>
+		<name>Corso di formazione sul trattamento dei dati personali</name>
+		<startdate>2018-11-28</startdate>
+		<enddate>2018-11-28</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#065de8</color>
+		<url>dettagli_corso_privacy.html</url>
+	</event>	<event>
+		<id>28</id>
+		<name>Progettazione e realizzazione di corsi per una formazione innovativa...</name>
+		<startdate>2019-01-22</startdate>
+		<enddate>2019-01-23</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#065de8</color>
+		<url>dettagli_elearning.html</url>
+	</event>
+	<event>
+		<id>29</id>
+		<name>Corso di vuoto avanzato</name>
+		<startdate>2019-02-25</startdate>
+		<enddate>2019-02-28</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#bc07b3</color>
+		<url>dettagli_vuoto_avanzato.html</url>
+	</event>
+		<event>
+		<id>29</id>
+		<name>Gestione e rendicontazione dei progetti finanziati dai Fondi Strutturali</name>
+		<startdate>2019-03-11</startdate>
+		<enddate>2019-03-13</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#0b04e2</color>
+		<url>dettagli_fondi_strutturali.html</url>
+	</event>
+			<event>
+		<id>30</id>
+		<name>Corso di aggiornamento per RSPP e ASPP: per una valutazione dei rischi che tenga conto delle differenze di genere, di età, di provenienza da altri paesi nonchè connessi alla tipologia contrattuale</name>
+		<startdate>2019-03-21</startdate>
+		<enddate>2019-03-21</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#299323</color>
+		<url>dettagli_rspp_aspp.html</url>
+	</event><event>
+	<id>31</id>
+		<name>Le problematiche dei PCB</name>
+		<startdate>2019-03-25</startdate>
+		<enddate>2019-03-27</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#ff7b00</color>
+		<url>dettagli_pcb.html</url>
+	</event>
+	<event>
+	<id>32</id>
+		<name>Machine learning in High Energy Physics</name>
+		<startdate>2019-05-20</startdate>
+		<enddate>2019-05-22</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#00db8e</color>
+		<url>dettagli_machine_learning.html</url>
+	</event>
+	<event>
+	<id>32</id>
+		<name>Corso di formazione sul trattamento dei dati personali</name>
+		<startdate>2019-03-19</startdate>
+		<enddate>2019-03-19</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#e01616</color>
+		<url>dettagli_corso_privacy_IIed.html</url>
+	</event>
+	<event>
+	<id>33</id>
+		<name>Gli Istituti del rapporto di lavoro alla luce del nuovo CCNL-Lavoro Agile</name>
+		<startdate>2019-04-16</startdate>
+		<enddate>2019-04-17</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#e01616</color>
+		<url>dettagli_corso_lavoro_agile.html</url>
+	</event>
+	<event>
+	<id>34</id>
+		<name>Rendicontazione e audit dei progetti Horizon 2020</name>
+		<startdate>2019-04-09</startdate>
+		<enddate>2019-04-11</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#0ddb39</color>
+		<url>dettagli_dettagli_horizon2020.html</url>
+	</event>
+	<event>
+	<id>35</id>
+		<name>Corso Ansys Fluent (base)</name>
+		<startdate>2019-05-28</startdate>
+		<enddate>2019-05-30</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#58a2fc</color>
+		<url>dettagli_dettagli_ansys_fluent.html</url>
+	</event>
+	<event>
+	<id>36</id>
+		<name>Fisica e Comunicazione - Parlare al pubblico di scienza: lo scienziato sul palco advanced</name>
+		<startdate>2019-05-21</startdate>
+		<enddate>2019-05-22</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#b200ff</color>
+		<url>dettagli_scienziato_pubblico.html</url>
+	</event>
+	<event>
+	<id>37</id>
+		<name>Corso Base ANSYS HFSS</name>
+		<startdate>2019-05-15</startdate>
+		<enddate>2019-05-15</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#ffc700</color>
+		<url>dettagli_ansys_hfss.html</url>
+	</event>
+	<event>
+	<id>38</id>
+		<name>Corso per i rappresentanti dei lavoratori per la sicurezza nelle strutture INFN</name>
+		<startdate>2019-05-21</startdate>
+		<enddate>2019-05-22</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#82cded</color>
+		<url>dettagli_corso_sicurezza_INFN.html</url>
+	</event>
+	<event>
+	<id>39</id>
+		<name>Organizzazione e gestione di eventi di divulgazione scientifica</name>
+		<startdate>2019-06-05</startdate>
+		<enddate>2019-06-05</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#87ce14</color>
+		<url>dettagli_corso_div_scient.html</url>
+	</event>
+	<event>
+	<id>40</id>
+		<name>Corso di aggiornamento Autodesk Inventor per utenti avanzati</name>
+		<startdate>2019-06-04</startdate>
+		<enddate>2019-06-05</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#0ddb39</color>
+		<url>dettagli_corso_autodesk.html</url>
+	</event>
+	<event>
+	<id>41</id>
+		<name>Corso di formazione sul trattamento dei dati personali</name>
+		<startdate>2019-06-26</startdate>
+		<enddate>2019-06-26</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#e01616</color>
+		<url>dettagli_corso_privacy_IIIed.html</url>
+	</event>
+	<event>
+	<id>42</id>
+		<name>Corso SolidWorks base-avanzato</name>
+		<startdate>2019-06-24</startdate>
+		<enddate>2019-06-28</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#d702ef</color>
+		<url>dettagli_solidworks_base_adv.html</url>
+	</event>
+	<event>
+	<id>43</id>
+		<name>Metodologie di progettazione con CATIA in Ambito PLM</name>
+		<startdate>2019-07-22</startdate>
+		<enddate>2019-07-25</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#c4b403</color>
+		<url>dettagli_corso_catia.html</url>
+	</event>
+	<event>
+	<id>44</id>
+		<name>Presentazione della proposta di disciplinare dei benefici assistenziali dell'Istituto e SAL sul nuovo manuale gestione sistema presenze</name>
+		<startdate>2019-09-10</startdate>
+		<enddate>2019-09-11</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#c4b403</color>
+		<url>#</url>
+	</event>
+	<event>
+		<id>45</id>
+		<name>Geometric Dimensioning e Tolerancing (GDT) corso base + avanzato</name>
+		<startdate>2019-09-18</startdate>
+		<enddate>2019-09-20</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#ce0a0a</color>
+		<url>dettagli_corso_GDT.html</url>
+	</event>
+	<event>
+		<id>46</id>
+		<name>Trattamento compensi erogati a lavoratori autonomi occasionali, abituali e assimilati a lavoratori dipendenti</name>
+		<startdate>2019-09-30</startdate>
+		<enddate>2019-10-01</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#01a51f</color>
+		<url>dettagli_corso_prestazione_occasionale.html</url>
+	</event>
+	<event>
+		<id>47</id>
+		<name>D.Lgs 81/08 CORSO DI AGGIORNAMENTO RLS 2019</name>
+		<startdate>2019-10-09</startdate>
+		<enddate>2019-10-10</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#600505</color>
+		<url>dettagli_corso_RLS_ott_2019.html</url>
+	</event>
+	<event>
+		<id>48</id>
+		<name>Gare Telematiche: illustrazione della normativa di riferimento e della convenzione con Consip Spa</name>
+		<startdate>2019-10-24</startdate>
+		<enddate>2019-10-24</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#c4b403</color>
+		<url>dettagli_gare_telematiche.html</url>
+	</event>
+	<event>
+		<id>50</id>
+		<name>Introduzione alla criogenia con esempi ed applicazioni</name>
+		<startdate>2019-10-28</startdate>
+		<enddate>2019-10-30</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#6a00ff</color>
+		<url>dettagli_criogenia.html</url>
+	</event>
+	<event>
+		<id>51</id>
+		<name>Fisica e Comunicazione - Parlare al pubblico di scienza: le parole e la forma</name>
+		<startdate>2019-11-21</startdate>
+		<enddate>2019-11-22</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#2dd30c</color>
+		<url>dettagli_fc_parole_e_forma.html</url>
+	</event>
+		<event>
+		<id>53</id>
+		<name>Aggiornamento in materia fiscale e tributaria</name>
+		<startdate>2019-11-18</startdate>
+		<enddate>2019-11-19</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#2dd30c</color>
+		<url>dettagli_fisco_tributi.html</url>
+	</event>
+	<event>
+		<id>54</id>
+		<name>Misure per promuovere le pari opportunità e rafforzare il ruolo dei CUG...</name>
+		<startdate>2019-12-12</startdate>
+		<enddate>2019-12-12</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#2dd30c</color>
+		<url>dettagli_pari_opp.html</url>
+	</event>
+	<event>
+		<id>54</id>
+		<name>Rendicontazione beni inventariabili su Progetti finanziati da Enti Esterni</name>
+		<startdate>2019-12-17</startdate>
+		<enddate>2019-12-17</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#1C6180</color>
+		<url>dettagli_rendicontazione.html</url>
+	</event>
+		<event>
+		<id>55</id>
+		<name>R per l'analisi dei dati </name>
+		<startdate>2020-01-15</startdate>
+		<enddate>2020-01-17</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#1C6180</color>
+		<url>dettagli_r.html</url>
+	</event>
+	<event>
+		<id>55</id>
+		<name>Social media 2 </name>
+		<startdate>2020-01-27</startdate>
+		<enddate>2020-01-28</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#1C6180</color>
+		<url>dettagli_socialmedia2.html</url>
+	</event>
+	<event>
+		<id>56</id>
+		<name>Corso RUP intermedio - I edizione </name>
+		<startdate>2020-02-25</startdate>
+		<enddate>2020-02-27</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#1C6180</color>
+		<url>dettagli_rup.html</url>
+	</event>
+	<event><id>57</id>
+		<name>Corso per i direttori delle strutture INFN </name>
+		<startdate>2020-03-17</startdate>
+		<enddate>2020-03-17</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#1C6180</color>
+		<url>dettagli_direttori2020.html</url>
+	</event>
+	<event><id>58</id>
+		<name>La gestione della proprietà intellettuale... </name>
+		<startdate>2020-03-16</startdate>
+		<enddate>2020-03-16</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#2596c6 </color>
+		<url>dettagli_proposteH2020.html</url>
+	</event>
+	<event><id>59</id>
+		<name>Parità, pari opportunità ed equità nella ricerca: strumenti e modalità per cambiamenti strutturali</name>
+		<startdate>2020-03-09</startdate>
+		<enddate>2020-03-10</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#2596c6 </color>
+		<url>dettagli_pari_opp_ricerca.html</url>
+	</event>
+	<event><id>60</id>
+		<name>Valutazione della performance, approfondimento in materia di cessazioni del personale e SAL in merito alla gestione dei dati del personale</name>
+		<startdate>2020-04-07</startdate>
+		<enddate>2020-04-08</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#2596c6</color>
+		<url>dettagli_val_performance.html</url>
+	</event>
+	<event><id>61</id>
+		<name>Progettazione di strutture meccaniche conformi ad Eurocodice</name>
+		<startdate>2021-03-01</startdate>
+		<enddate>2021-03-04</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#2596c6</color>
+		<url>2020_dettagli_strutture_meccaniche.html</url>
+	</event>
+	<event><id>62</id>
+		<name>Progetto formativo di Project Management - I edizione</name>
+		<startdate>2021-03-16</startdate>
+		<enddate>2021-03-16</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#1C6180</color>
+		<url>2021_dettagli_PM.html</url>
+	</event>
+	<event><id>63</id>
+		<name>Progetto formativo di Project Management - I edizione</name>
+		<startdate>2021-03-22</startdate>
+		<enddate>2021-03-22</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#1C6180</color>
+		<url>2021_dettagli_PM.html</url>
+	</event>
+	<event><id>64</id>
+		<name>Progetto formativo di Project Management - I edizione</name>
+		<startdate>2021-03-23</startdate>
+		<enddate>2021-03-23</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#1C6180</color>
+		<url>2021_dettagli_PM.html</url>
+	</event>
+</monthly>
