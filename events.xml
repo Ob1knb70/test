@@ -10,7 +10,7 @@
 		<enddate>2022-10-29</enddate>
 		<starttime></starttime>
 		<endtime></endtime>
-		<color>#c93c0e</color>
+		<color>green</color>
 		<url></url>
 	</event>
 	<event>
@@ -20,7 +20,17 @@
 		<enddate>2022-10-29</enddate>
 		<starttime></starttime>
 		<endtime></endtime>
-		<color>#c93c0e</color>
+		<color>red</color>
+		<url></url>
+	</event>
+	<event>
+		<id>3</id>
+		<name>Test corso 2</name>
+		<startdate>2022-10-9</startdate>
+		<enddate>2022-10-11</enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>blue</color>
 		<url></url>
 	</event>
 	
